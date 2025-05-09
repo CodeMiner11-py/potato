@@ -1,0 +1,10 @@
+thingies
+
+<h1>Locations:</h1>
+
+<p style="width: 100%;"> Our main farm for public access is located in Idaho City, Idaho. Other locations include: </p>
+<p style="width: 100%;">Dallas, Texas</p>
+<p style="width: 100%;">Sacramento, California</p>
+<p style="width: 100%;">Storrs, Connecticut</p>
+<p style="width: 100%;">Boston, Massachusets</p>
+<p style="width: 100%;"></p>

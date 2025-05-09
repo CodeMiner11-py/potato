@@ -1,0 +1,171 @@
+#logo-container, #logo {
+	display: block;
+	margin: auto;
+	width: 27.5%;
+}
+
+.indented{
+	margin-left: 100px;
+}
+
+#navigation{
+	margin: auto !important;
+}
+
+a{
+	cursor: url('https://i.ibb.co/LzprtDQp/potato-1.png') 16 16, auto;
+}
+
+body{
+	cursor: url('https://i.ibb.co/LzprtDQp/potato-1.png') 16 16, auto;
+}
+
+.border{
+	border: 1px solid black;
+}
+
+.movingpotato{
+	vertical-align: middle;
+	padding-bottom: 10px;
+	margin-bottom: none;
+}
+
+.box{
+	display: inline;
+	padding: 10px 10px 10px 10px;
+}
+
+
+.box *{
+	display: inline-block;
+}
+
+.box-boxer{
+	border: 1px solid black;
+	padding: 10px 10px 10px 10px;
+	display: inline;
+	background-color: #fadca6;
+}
+
+.container{
+	display: inline;
+	padding-right: 36px;
+}
+
+
+.box-boxer:hover{
+	background-color: inherit;
+}
+
+.invislink{
+	color: black;
+	text-decoration: none;
+}
+
+.center{
+	margin: auto;
+	text-align: center;
+}
+
+.carousel{
+	border: 1px solid black;
+	padding: 15px 15px 20px 15px;
+	margin-right: 90px;
+}
+
+.infotext{
+	font-size: 16px;
+}
+
+.box p{
+	padding-top: 5px;
+	margin-top: 0px;
+	padding-bottom: 5px;
+	margin-bottom: 0px;
+	color: black;
+}
+
+
+.divider{
+	border: 1px solid black;
+	
+}
+
+#logotext{
+	text-align: center;
+}
+
+.spacer{
+	height: 25px;
+
+}
+
+.button{
+	padding: 10px 10px 10px 10px;
+	border: 1px solid black;
+	background-color: #fadca6;
+	width: 12%;
+	margin-right: 75px;
+}
+
+.group .button{
+	display: inline-block;
+}
+
+.button:hover{
+	background-color: inherit;
+}
+
+#navigation ul{
+	list-style-type: none;
+}
+#navigation ul li a {
+	text-decoration: none;
+	color: black;
+	margin: auto;
+}
+#navigation ul li a:hover{
+	text-decoration: underline;
+}
+
+#navigation ul li{
+	display: inline;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: auto;
+}
+
+#navigation{
+	margin: auto;
+	padding-left: 350px;
+}
+
+@font-face {
+	font-family: PotatoFont;
+	src: url('PotatoFont.otf') format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-family: PotatoFont;
+	background-color: #EDE8D0;
+}
+
+#footer img{
+	margin: auto;
+	display: block;
+}
+
+.link{
+	color: black;
+	text-decoration: none;
+}
+.link:hover{
+	text-decoration: underline;
+}
+
+#footer p{
+	margin: auto;
+	text-align: center;
+}
