@@ -13,11 +13,11 @@
 }
 
 a{
-	cursor: url('https://i.ibb.co/LzprtDQp/potato-1.png') 16 16, auto;
+	cursor: url('https://i.ibb.co/LzprtDQp/potato-1.png') 16 16, auto !important;
 }
 
 body{
-	cursor: url('https://i.ibb.co/LzprtDQp/potato-1.png') 16 16, auto;
+	cursor: url('https://i.ibb.co/LzprtDQp/potato-1.png') 16 16, auto !important;
 }
 
 .border{
